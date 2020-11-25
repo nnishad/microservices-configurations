@@ -1,0 +1,9 @@
+server:
+  port: 8764
+
+spring:
+  data:
+    mongodb:
+      database: crud
+      host: 192.168.65.129
+      post: 27017
